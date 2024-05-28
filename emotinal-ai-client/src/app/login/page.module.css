@@ -1,0 +1,21 @@
+.login {
+    width: 100%;
+    min-height: 100dvh;
+
+    display: flex;
+    justify-content: center;
+}
+
+.login > section {
+    width: 75%;
+    min-height: 100dvh;
+
+    padding: 1em;
+
+    background-color: white;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}

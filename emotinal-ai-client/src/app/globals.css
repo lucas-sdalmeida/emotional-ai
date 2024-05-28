@@ -1,1 +1,13 @@
+* {
+    box-sizing: border-box;
 
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    width: 100dvw;
+    min-height: 100dvh;
+
+    background-color: rgba(50, 50, 50, 1);
+}
